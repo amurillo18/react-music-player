@@ -1,0 +1,42 @@
+.profile{
+    width: 10%;
+    margin-left: 40%;
+}
+
+.header__img{
+    margin-left: 36%;
+    margin-top: 8px;
+}
+
+.header__follower{
+    margin-left:36%;
+}
+
+.empty-notice{
+    font-size: 1.5em;
+    margin-left: 39%;
+}
+
+@media (max-width: 900px) {
+    
+
+    .profile{
+        height: 10%;
+        width: 20%;
+        margin-left: 210px;
+    }
+
+    .header__img{
+        margin-left: 25%;
+       
+    }
+
+    .header__follower{
+        margin-left:25%;
+    }
+
+    .empty-notice{
+        margin-left: 34%;
+    }
+   
+  }

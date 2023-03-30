@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+.footer{
+  margin-top: 20%;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}

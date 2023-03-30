@@ -1,0 +1,38 @@
+body {
+    background-color: #e5e5e5;
+  }
+  
+  .player-container {
+    background-color: white;
+    width: 25%;
+    max-width: 600px;
+    margin: 1em auto;
+    padding-bottom: 2em;
+    border: 0.1px solid black;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  .music-cover {
+    border-radius: 10%;
+  }
+  
+  .audio-controls {
+    background: none;
+    border: none;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .artist {
+    margin-top: -1em;
+    color: #4f4f4f;
+    padding-top: 10px;
+  }
+  
+  
+  @media (max-width: 900px) {
+    .player-container {
+      width: 50%;
+    }
+  }
